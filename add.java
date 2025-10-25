@@ -8,7 +8,11 @@ public class add{
 
   class add1 {
   public static void main(String args){
+<<<<<<< HEAD
      System.out.println("Suryabhan1");
      System.out.println("Suryabhan2");
+=======
+     System.out.println("Suryabhan3");
+>>>>>>> 8436861 (new)
   }
 }
