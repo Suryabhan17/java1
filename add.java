@@ -13,6 +13,10 @@ public class add{
      System.out.println("Suryabhan26");
      System.out.println("Suryabhan1");
      System.out.println("Suryabhan26");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1879603e66726dbe3df2c12f0bb0cd50b07e082f
      System.out.println("Suryabhan25_1");
      System.out.println("Suryabhan25_1__SURYA");
   }
